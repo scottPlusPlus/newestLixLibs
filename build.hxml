@@ -1,0 +1,4 @@
+-lib haxe-files
+-lib tink_semver
+-main Main
+-neko newestLixLibs.n
